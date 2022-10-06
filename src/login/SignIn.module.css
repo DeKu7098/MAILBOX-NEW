@@ -1,0 +1,108 @@
+.auth {
+  max-width: 500px;
+	padding: 10px 20px;
+	background: #8ec7db;
+	margin: 10px auto;
+	padding: 20px;
+	background: #244956;
+	border-radius: 8px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
+  .auth h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .control label {
+    display: block;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input {
+    font: inherit;
+    background-color: #eb8989;
+    color: #38015c;
+    border-radius: 22px;
+    border: 1px solid rgb(7, 7, 7);
+    width: 100%;
+    text-align: left;
+    padding: 0.45rem;
+  }
+  
+  .control input:focus {
+    font: inherit;
+    outline: none !important;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 22px;
+    border: 1px solid white;
+    width: 100%;
+    text-align: left;
+    padding: 0.45rem;
+  }
+  
+  .actions {
+    margin-top: 1.5rem;
+    display: flex;
+    color: black;
+    text-align: center;
+    flex-direction: column;
+    padding: 1%;
+  }
+  
+  .actions button {
+    cursor: pointer;
+    font: inherit;
+    color: rgb(255, 255, 255);
+    background-color: #4c00ff;
+    border: 1px solid #5c5ecc;
+    border-radius: 50px;
+    padding: 0.5rem 2.5rem;
+  }
+  
+  .actions button:hover {
+    background-color: #873abb;
+    border-color: #873abb;
+  }
+  
+  .actions .toggle {
+    margin-top: 1rem;
+    background-color: transparent;
+    color: #9f5ccc;
+    border: none;
+    padding: 0.15rem 1.5rem;
+  }
+  
+  .actions .toggle:hover {
+    background-color: transparent;
+    color: #ae82cc;
+  }
+  
+  .actions1 {
+    margin-top: 1.5rem;
+    display: flex;
+    color: black;
+    text-align: center;
+    flex-direction: column;
+    border: black;
+    background-color: rgb(168, 169, 255);
+    padding: 1%;
+  }
+  
+  .actions1 Link {
+    margin-top: 1.5rem;
+    display: flex;
+    color: black;
+    text-align: center;
+    flex-direction: column;
+    border: black;
+    background-color: rgb(168, 169, 255);
+    padding: 1%;
+  }
